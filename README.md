@@ -2,6 +2,10 @@
 
 A mini Flutter app showcasing a widget catalog with several lesser-known, but highly useful, widgets. The home screen lists demo entries and navigates to focused examples.
 
+
+https://github.com/user-attachments/assets/65e61b8e-3352-4ba4-b35e-be6ba36fb2f0
+
+
 ## Run the app
 
 ```bash
